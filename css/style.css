@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;;
+}
+
+h6{
+    text-align: block;
+}
+.row{
+    margin-left: 100px;
+    
+}
+
+h1{
+    text-align: center;
+    color: orangered;
+}
+.py-5 h2{
+     margin-bottom: 50px;
+}
